@@ -2755,6 +2755,9 @@ body[data-layout-mode=dark] .contact .custom-form .form-group .form-control {
         width: 90%;
     }
 }
+.d-flex{
+    align-items: center;
+}
 body[data-layout-mode=dark] .footer {
     background-color: #303841 !important
 }
